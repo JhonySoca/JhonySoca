@@ -5,7 +5,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3>Perfil: </h3>
-<br>
 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programacion
 
