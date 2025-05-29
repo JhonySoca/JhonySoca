@@ -6,7 +6,6 @@
 
 <h3>Perfil: </h3>
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programacion
 
 - 📫 Como contactarse conmigo **jhonysocadiaz@gmail.com**
 
