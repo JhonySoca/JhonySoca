@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, soy Jhony Soca</h1>
-<h3 align="center">Estudiante de Desarrollo de Software🌟.</h3>
+<h3 align="center">Tecnico en Desarrollo de Software🌟.</h3>
 
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
